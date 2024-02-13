@@ -1,0 +1,6 @@
+C:\Users\Kier\source\repos\CPSC1517BlazorSampleApp\BlazorSampleApp\obj\Debug\net8.0\BlazorSampleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kier\source\repos\CPSC1517BlazorSampleApp\BlazorSampleApp\obj\Debug\net8.0\BlazorSampleApp.AssemblyInfoInputs.cache
+C:\Users\Kier\source\repos\CPSC1517BlazorSampleApp\BlazorSampleApp\obj\Debug\net8.0\BlazorSampleApp.AssemblyInfo.cs
+C:\Users\Kier\source\repos\CPSC1517BlazorSampleApp\BlazorSampleApp\obj\Debug\net8.0\BlazorSampleApp.csproj.CoreCompileInputs.cache
+C:\Users\Kier\source\repos\CPSC1517BlazorSampleApp\BlazorSampleApp\obj\Debug\net8.0\BlazorSampleApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kier\source\repos\CPSC1517BlazorSampleApp\BlazorSampleApp\obj\Debug\net8.0\BlazorSampleApp.sourcelink.json
