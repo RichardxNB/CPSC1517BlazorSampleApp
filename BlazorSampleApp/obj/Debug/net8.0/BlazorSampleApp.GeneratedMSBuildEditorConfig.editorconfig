@@ -1,0 +1,75 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BlazorSampleApp
+build_property.RootNamespace = BlazorSampleApp
+build_property.ProjectDir = C:\Users\Kier\source\repos\CPSC1517BlazorSampleApp\BlazorSampleApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Kier\source\repos\CPSC1517BlazorSampleApp\BlazorSampleApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Kier/source/repos/CPSC1517BlazorSampleApp/BlazorSampleApp/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kier/source/repos/CPSC1517BlazorSampleApp/BlazorSampleApp/Components/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kier/source/repos/CPSC1517BlazorSampleApp/BlazorSampleApp/Components/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kier/source/repos/CPSC1517BlazorSampleApp/BlazorSampleApp/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kier/source/repos/CPSC1517BlazorSampleApp/BlazorSampleApp/Components/Pages/Samples/Calculator.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTYW1wbGVzXENhbGN1bGF0b3IucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kier/source/repos/CPSC1517BlazorSampleApp/BlazorSampleApp/Components/Pages/Samples/CurrentDateTime.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTYW1wbGVzXEN1cnJlbnREYXRlVGltZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kier/source/repos/CPSC1517BlazorSampleApp/BlazorSampleApp/Components/Pages/Samples/LottoQuickPick.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTYW1wbGVzXExvdHRvUXVpY2tQaWNrLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kier/source/repos/CPSC1517BlazorSampleApp/BlazorSampleApp/Components/Pages/Samples/MaxRandomNumber.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTYW1wbGVzXE1heFJhbmRvbU51bWJlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kier/source/repos/CPSC1517BlazorSampleApp/BlazorSampleApp/Components/Pages/Samples/ServiceFormPage.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTYW1wbGVzXFNlcnZpY2VGb3JtUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kier/source/repos/CPSC1517BlazorSampleApp/BlazorSampleApp/Components/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kier/source/repos/CPSC1517BlazorSampleApp/BlazorSampleApp/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kier/source/repos/CPSC1517BlazorSampleApp/BlazorSampleApp/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kier/source/repos/CPSC1517BlazorSampleApp/BlazorSampleApp/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-xuy1i1rfqf
+
+[C:/Users/Kier/source/repos/CPSC1517BlazorSampleApp/BlazorSampleApp/Components/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-a4l7u9bj73
